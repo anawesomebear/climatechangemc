@@ -1,0 +1,10 @@
+name: ClimateChangeMc
+version: 1.0.2
+author: AnAwesomeBear
+main: com.anawesomebear.climatechangemc.ClimateChangeMc
+api-version: 1.16
+commands:
+  runccm:
+    description: Begins climate change effects
+    usage: /<command>
+    aliases: [climatechange, runclimate]
